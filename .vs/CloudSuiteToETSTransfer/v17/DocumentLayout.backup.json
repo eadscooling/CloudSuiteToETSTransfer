@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|c:\\users\\rriedinger\\onedrive - eads cooling solutions\\development\\cloudsuitetoetstransfer\\cloudsuitetoetstransfer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|solutionrelative:cloudsuitetoetstransfer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|c:\\users\\rriedinger\\onedrive - eads cooling solutions\\development\\cloudsuitetoetstransfer\\cloudsuitetoetstransfer\\helpers\\cloudsuitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|solutionrelative:cloudsuitetoetstransfer\\helpers\\cloudsuitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|c:\\users\\rriedinger\\onedrive - eads cooling solutions\\development\\cloudsuitetoetstransfer\\cloudsuitetoetstransfer\\eadsdbcontext\\ecscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|solutionrelative:cloudsuitetoetstransfer\\eadsdbcontext\\ecscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|c:\\users\\rriedinger\\onedrive - eads cooling solutions\\development\\cloudsuitetoetstransfer\\cloudsuitetoetstransfer\\classes\\masterscheduleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|solutionrelative:cloudsuitetoetstransfer\\classes\\masterscheduleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|c:\\users\\rriedinger\\onedrive - eads cooling solutions\\development\\cloudsuitetoetstransfer\\cloudsuitetoetstransfer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|solutionrelative:cloudsuitetoetstransfer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|c:\\users\\rriedinger\\onedrive - eads cooling solutions\\development\\cloudsuitetoetstransfer\\cloudsuitetoetstransfer\\appsettingsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|solutionrelative:cloudsuitetoetstransfer\\appsettingsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|c:\\users\\rriedinger\\onedrive - eads cooling solutions\\development\\cloudsuitetoetstransfer\\cloudsuitetoetstransfer\\helpers\\utilclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|solutionrelative:cloudsuitetoetstransfer\\helpers\\utilclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|c:\\users\\rriedinger\\onedrive - eads cooling solutions\\development\\cloudsuitetoetstransfer\\cloudsuitetoetstransfer\\classes\\cloudsuitetokenclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118EC252-794B-4591-93F3-E3D17C67D357}|CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer.csproj|solutionrelative:cloudsuitetoetstransfer\\classes\\cloudsuitetokenclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ECSContext.cs",
+              "DocumentMoniker": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\EadsDBContext\\ECSContext.cs",
+              "RelativeDocumentMoniker": "CloudSuiteToETSTransfer\\EadsDBContext\\ECSContext.cs",
+              "ToolTip": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\EadsDBContext\\ECSContext.cs",
+              "RelativeToolTip": "CloudSuiteToETSTransfer\\EadsDBContext\\ECSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:10:41.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UtilClass.cs",
+              "DocumentMoniker": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\Helpers\\UtilClass.cs",
+              "RelativeDocumentMoniker": "CloudSuiteToETSTransfer\\Helpers\\UtilClass.cs",
+              "ToolTip": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\Helpers\\UtilClass.cs",
+              "RelativeToolTip": "CloudSuiteToETSTransfer\\Helpers\\UtilClass.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAA3wAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:55:01.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\appsettings.json",
+              "RelativeDocumentMoniker": "CloudSuiteToETSTransfer\\appsettings.json",
+              "ToolTip": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\appsettings.json",
+              "RelativeToolTip": "CloudSuiteToETSTransfer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-22T16:50:24.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppSettingsUtil.cs",
+              "DocumentMoniker": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\AppSettingsUtil.cs",
+              "RelativeDocumentMoniker": "CloudSuiteToETSTransfer\\AppSettingsUtil.cs",
+              "ToolTip": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\AppSettingsUtil.cs",
+              "RelativeToolTip": "CloudSuiteToETSTransfer\\AppSettingsUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:26:36.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CloudSuiteHelper.cs",
+              "DocumentMoniker": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\Helpers\\CloudSuiteHelper.cs",
+              "RelativeDocumentMoniker": "CloudSuiteToETSTransfer\\Helpers\\CloudSuiteHelper.cs",
+              "ToolTip": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\Helpers\\CloudSuiteHelper.cs",
+              "RelativeToolTip": "CloudSuiteToETSTransfer\\Helpers\\CloudSuiteHelper.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwDIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:24:13.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MasterScheduleClass.cs",
+              "DocumentMoniker": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\Classes\\MasterScheduleClass.cs",
+              "RelativeDocumentMoniker": "CloudSuiteToETSTransfer\\Classes\\MasterScheduleClass.cs",
+              "ToolTip": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\Classes\\MasterScheduleClass.cs",
+              "RelativeToolTip": "CloudSuiteToETSTransfer\\Classes\\MasterScheduleClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:24:02.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CloudSuiteTokenClass.cs",
+              "DocumentMoniker": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\Classes\\CloudSuiteTokenClass.cs",
+              "RelativeDocumentMoniker": "CloudSuiteToETSTransfer\\Classes\\CloudSuiteTokenClass.cs",
+              "ToolTip": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\Classes\\CloudSuiteTokenClass.cs",
+              "RelativeToolTip": "CloudSuiteToETSTransfer\\Classes\\CloudSuiteTokenClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:23:38.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\Program.cs",
+              "RelativeDocumentMoniker": "CloudSuiteToETSTransfer\\Program.cs",
+              "ToolTip": "C:\\Users\\rriedinger\\OneDrive - Eads Cooling Solutions\\Development\\CloudSuiteToETSTransfer\\CloudSuiteToETSTransfer\\Program.cs",
+              "RelativeToolTip": "CloudSuiteToETSTransfer\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAawBwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:15:47.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
