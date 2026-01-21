@@ -30,7 +30,8 @@ namespace ETSWebAPI.EadsDbContext.Models
         public int? PurchaseOrderId { get; set; }
         public DateTime? DueDate { get; set; }
         public string? Routing { get; set; }
+        public decimal? FanPitch { get; set; }
 
 
-        }
+    }
 }
