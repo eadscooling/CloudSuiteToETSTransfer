@@ -88,6 +88,7 @@ namespace CloudSuiteToETSTransfer.Helpers
                         .ToList();
                     foreach (var product in products)
                     {
+                        
                         bool updateProduct = false;
                         if (product.DueDate == null || (schedule.CoLineDueDate != null && product.DueDate > schedule.CoLineDueDate))
                         {
@@ -108,8 +109,10 @@ namespace CloudSuiteToETSTransfer.Helpers
                         }
                         if (updateProduct)
                         {
+                            //product.NamePlateCreated = false;
                             ecsContent.Products.Update(product);
                             ecsContent.SaveChanges();
+
                         }
                     }
                 }
@@ -171,7 +174,8 @@ GetListOfAssembliesOnMasterScheduleAsync()
             try
             {
                 string token = GetTokenAsync().Result;
-                string requestUri = $"{_BaseUrl}/load/ue_EDS_MasterSchedule?properties=CoNum,CoLineItem,ItemDescription,CoLineDueDate,CustItem,CustName,OrderDate,ue_uf_EDS_RoutingID,CoStat&filter=CoStat='P'";
+                //string requestUri = $"{_BaseUrl}/load/ue_EDS_MasterSchedule?properties=CoNum,CoLineItem,ItemDescription,CoLineDueDate,CustItem,CustName,OrderDate,ue_uf_EDS_RoutingID,CoStat&filter=CoStat='P'";
+                string requestUri = $"{_BaseUrl}/load/ue_EDS_MasterSchedule?properties=CoNum,CoLineItem,ItemDescription,CoLineDueDate,CustName,CustItem,OrderDate,ue_uf_EDS_RoutingID,CoStat&filter=CoStat='P'";
 
                 using (var client = new HttpClient())
                 {

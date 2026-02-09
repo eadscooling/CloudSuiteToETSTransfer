@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudSuiteToETSTransfer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d79f0ed0d240e978d207c4d533994ed291ca263f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dc9025797819ddc4d952a53cd53932fce83aab1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudSuiteToETSTransfer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudSuiteToETSTransfer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
