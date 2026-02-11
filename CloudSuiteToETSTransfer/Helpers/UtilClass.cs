@@ -1,10 +1,33 @@
 ﻿using Microsoft.Kiota.Abstractions;
 using System.Configuration;
+using System.Reflection;
 
 namespace CloudSuiteToETSTransfer.Helpers
 {
     public class UtilClass
     {
+       
+        public void WriteToLogFile( string logEntry)
+        {
+            string applicationPath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
+            string fullFilePath = applicationPath + @"\Logs\Log_" + DateTime.Now.ToString("MM-dd-yyyy") + ".log";
+            try
+            {
+                if (!Path.Exists(fullFilePath))
+                {
+                    System.IO.Directory.CreateDirectory(Path.GetDirectoryName(fullFilePath));
+                }
+                using (StreamWriter w = System.IO.File.AppendText(fullFilePath))
+                {
+                    w.WriteLine(DateTime.Now.ToString("MM-dd-yy H:mm:ss") + " : " + logEntry);
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error writing to log file: " + ex.Message);
+                // Optionally, you can throw the exception or handle it as needed   
+            }
+        }
         public bool StartsWith(string value,string startsWith)
         {
             value = value.Trim();

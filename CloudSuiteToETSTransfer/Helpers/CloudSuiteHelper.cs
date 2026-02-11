@@ -112,6 +112,7 @@ namespace CloudSuiteToETSTransfer.Helpers
                             //product.NamePlateCreated = false;
                             ecsContent.Products.Update(product);
                             ecsContent.SaveChanges();
+                            util.WriteToLogFile("Updated Product - SerialNumber: " + product.SerialNumber + " DueDate: " + product.DueDate + " CustomerTag: " + product.CustomerTag + " Routing: " + product.Routing);
 
                         }
                     }
